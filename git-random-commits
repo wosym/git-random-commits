@@ -13,7 +13,7 @@ FILES_PER_COMMIT=1
 VERBOSE=
 BRANCH=
 
-COMMIT_RANDOM_MESSAGE_URL=http://whatthecommit.com/index.txt
+COMMIT_RANDOM_MESSAGE_URL=https://whatthecommit.com/index.txt
 COMMIT_RANDOM_MESSAGE_FILE=
 
 FILENAMES=(main manager component controller action utils crypt build security sound driver
